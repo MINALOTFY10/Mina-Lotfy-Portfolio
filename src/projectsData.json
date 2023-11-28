@@ -1,0 +1,423 @@
+[
+  {
+    "id": 0,
+    "title": "Organick",
+    "date": "Aug 25th 2023",
+    "github": "https://github.com/MINALOTFY10/Organick-eCommerce-Website",
+    "website": "https://organick-e-commerce.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "Responsive",
+      "ReactJS",
+      "Redux",
+      "BootstrapCSS",
+      "Firebase Realtime Database",
+      "Design System",
+      "Dark Mode"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/one.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/two.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/three.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/four.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/five.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/six.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/seven.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/eight.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Organick-eCommerce-Website/master/App%20Screenshots/nine.png"
+    ],
+    "overview": "The Organick E-commerce Website is designed to provide users with a user-friendly and feature-rich platform for online shopping. It is built using React and Redux, making it highly responsive and interactive.",
+    "full-overview": "The Organick E-commerce Website is designed to provide users with a user-friendly and feature-rich platform for online shopping. It is built using React and Redux, making it highly responsive and interactive. Whether you're a shopper, a developer, or simply curious, this project has something for everyone.",
+    "features": [
+      {
+        "title": "Seamless Shopping Experience Enjoy a hassle-free shopping experience with the following features:",
+        "description": [
+          "Browse a wide range of products. Add products to your cart. Proceed to checkout securely."
+        ]
+      },
+      {
+        "title": "Dynamic Product Listing Our e-commerce website provides a dynamic listing of products:",
+        "description": [
+          "Products are loaded and displayed dynamically. Enjoy a variety of products for diverse shopping opportunities."
+        ]
+      },
+      {
+        "title": "Authentication and User Profiles Users can create accounts, sign in, and manage their profiles:",
+        "description": ["The website is open source and available on GitHub."]
+      },
+      {
+        "title": "Responsive Design Access the Organick E-commerce Website on any device:",
+        "description": [
+          "Whether you're on a desktop, tablet, or smartphone, the app adapts to your screen size. Enjoy a consistent user experience across platforms."
+        ]
+      }
+    ],
+    "Technologies Used": "This project was developed using ReactJS for the frontend and TailwindCSS for styling. A custom design system was implemented to expedite development and maintenance. Utilizing CSS variables facilitated the incorporation of dark mode and allowed for extensible theming. The project prioritized performance and accessibility by employing SVG icons and WebP images. Code quality was ensured by employing ESLint and Prettier, and automatic deployment was set up using Vercel. The project's high scores in SEO, accessibility, and performance were validated through Google Lighthouse."
+  },
+  {
+    "id": 1,
+    "title": "GlobeQuiz Hub",
+    "date": "Aug 10th 2023",
+    "github": "https://github.com/MINALOTFY10/GlobeQuiz-Hub-App",
+    "website": "https://country-quiz-euf3.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "ReactJS",
+      "Redux",
+      "Redux Toolkit",
+      "BootstrapCSS",
+      "Firebase Realtime Database"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/GlobeQuiz-Hub-App/master/App%20Screenshots/first.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/GlobeQuiz-Hub-App/master/App%20Screenshots/second.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/GlobeQuiz-Hub-App/master/App%20Screenshots/third.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/GlobeQuiz-Hub-App/master/App%20Screenshots/fourth.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/GlobeQuiz-Hub-App/master/App%20Screenshots/fifth.png"
+    ],
+    "overview": "GlobeQuiz Hub, a fun and educational web application that allows you to test your knowledge of countries, capitals, and continents through engaging quizzes. ",
+    "full-overview": "GlobeQuiz Hub is built using React and Redux, making it a responsive and interactive quiz platform. Whether you're a geography enthusiast, a student, or just looking for a fun trivia game, this app has something for everyone.",
+    "features": [
+      {
+        "title": "Multiple Quiz Question Types Choose from three different quiz question types to test your knowledge:",
+        "description": [
+          "Flag Quiz: Identify countries by their flags.",
+          "Capital Quiz: Match countries with their capitals.",
+          "Continent Quiz: Learn about countries by their continents."
+        ]
+      },
+      {
+        "title": "Dynamic Quiz Generation Enjoy an endless supply of quiz questions with my dynamic generation system:",
+        "description": [
+          "Questions are randomly generated, providing a unique quiz each time.",
+          "Experience a variety of questions for diverse learning opportunities."
+        ]
+      },
+      {
+        "title": "Score Tracking and High Score Keep track of your progress and aim for the high score:",
+        "description": [
+          "Your current score is displayed during the quiz.",
+          "View all high scores to challenge yourself to do better."
+        ]
+      },
+      {
+        "title": "User-Friendly Interface The app is designed with user convenience in mind:",
+        "description": [
+          "Intuitive and easy-to-use interface for a seamless quiz experience.",
+          "Clear visuals and feedback for each question."
+        ]
+      },
+      {
+        "title": "Responsive Design Access the Country Quiz App on any device:",
+        "description": [
+          "Whether you're on a desktop, tablet, or smartphone, the app adapts to your screen size.",
+          "Enjoy a consistent user experience across platforms."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Weather React App",
+    "date": "Jul 20th 2023",
+    "github": "https://github.com/MINALOTFY10/Weather-Site",
+    "website": "https://weather-site-eosin.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "ReactJS",
+      "Redux",
+      "Redux Toolkit",
+      "BootstrapCSS"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/Weather-Site/master/App%20Screenshots/one.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Weather-Site/master/App%20Screenshots/two.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Weather-Site/master/App%20Screenshots/three.png"
+    ],
+    "overview": "This repository hosts a React-based weather application designed to provide comprehensive weather information. The app comprises various components, layouts, and functionalities to deliver a user-friendly experience.",
+    "full-overview": "This repository hosts a React-based weather application designed to provide comprehensive weather information. The app comprises various components, layouts, and functionalities to deliver a user-friendly experience.",
+    "features": [
+      {
+        "title": "API Integration",
+        "description": [
+          "Weather data is fetched from the WeatherAPI using the loadWeather function, responsible for API requests and response handling."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Todo App ReactJS",
+    "date": "Jul 5th 2023",
+    "github": "https://github.com/MINALOTFY10/ReactJS-Todo-App",
+    "website": "https://react-js-todo-app-ten.vercel.app/",
+    "Technologies": ["Front-End", "ReactJS", "BootstrapCSS"],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/ReactJS-Todo-App/master/App%20Screenshots/one.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/ReactJS-Todo-App/master/App%20Screenshots/two.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/ReactJS-Todo-App/master/App%20Screenshots/three.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/ReactJS-Todo-App/master/App%20Screenshots/four.png"
+    ],
+    "overview": "This is a simple task manager web app built using React and Redux. It allows you to add, manage, and categorize tasks. You can switch between different task lists - All Tasks, Active Tasks, and Completed Tasks.",
+    "full-overview": "This is a simple task manager web app built using React and Redux. It allows you to add, manage, and categorize tasks. You can switch between different task lists - All Tasks, Active Tasks, and Completed Tasks.",
+    "features": [
+      {
+        "title": "Add New Tasks",
+        "description": "Easily add new tasks to your list."
+      },
+      {
+        "title": "Mark Tasks as Completed",
+        "description": "Track your progress by marking tasks as completed."
+      },
+      {
+        "title": "Remove Tasks",
+        "description": "Remove individual tasks or clear all tasks under the Completed tab."
+      },
+      {
+        "title": "View Options",
+        "description": "View all tasks, active tasks, or completed tasks based on your preference."
+      },
+      {
+        "title": "Local Storage",
+        "description": "Store data locally (using Firebase) to maintain progress even after page refresh."
+      },
+      {
+        "title": "7. Responsive Layout",
+        "description": "Enjoy a responsive layout that adapts to different devices and screen sizes."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Spotify-like Music Player",
+    "date": "Jun 28th 2023",
+    "github": "https://github.com/MINALOTFY10/Spotify-like-Music-Player",
+    "website": "https://music-webapp-omega.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap Icons",
+      "Font Awesome"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/Spotify-like-Music-Player/master/App%20Screenshots/one.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Spotify-like-Music-Player/master/App%20Screenshots/two.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Spotify-like-Music-Player/master/App%20Screenshots/three.png"
+    ],
+    "overview": "This project is a web-based music player resembling the interface and functionalities of Spotify. It offers a user-friendly interface for playing and managing music.",
+    "full-overview": "This project is a web-based music player resembling the interface and functionalities of Spotify. It offers a user-friendly interface for playing and managing music.",
+    "features": [
+      {
+        "title": "Music Library:",
+        "description": ["Displays a list of songs with album art, title"]
+      },
+      {
+        "title": "Playback Controls:",
+        "description": ["Play, pause, skip, and seek functionalities."]
+      },
+      {
+        "title": "Volume Control:",
+        "description": ["Adjust the volume level of the music."]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Movie Quiz App",
+    "date": "May 1th 2023",
+    "github": "https://github.com/MINALOTFY10/Movie-Quiz-App-JS",
+    "website": "https://quiz-app-using-java-script.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Ajax (XHR)",
+      "JSON",
+      "Font Awesome"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/one.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/two.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/three.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/four.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/five.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/six.png",
+      "https://raw.githubusercontent.com/MINALOTFY10/Movie-Quiz-App-JS/master/Screenshots/seven.png"
+    ],
+    "overview": "A simple Quiz Application built using HTML, CSS, JavaScript. It allows users to answer a series of questions and provides immediate feedback on whether their answers are correct or not.",
+    "full-overview": "A simple Quiz Application built using HTML, CSS, JavaScript, JSON, and Ajax. It allows users to answer a series of questions and provides immediate feedback on whether their answers are correct or not.",
+    "features": [
+      {
+        "title": "Music Library:",
+        "description": ["Displays a list of songs with album art, title"]
+      },
+      {
+        "title": "Playback Controls:",
+        "description": ["Play, pause, skip, and seek functionalities."]
+      },
+      {
+        "title": "Volume Control:",
+        "description": ["Adjust the volume level of the music."]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Random Quote Generator App",
+    "date": "Apr 25th 2023",
+    "github": "https://github.com/MINALOTFY10/Random-Quote-Generator",
+    "website": "https://random-quote-generator-bay-seven.vercel.app/",
+    "Technologies": [
+      "Front-End",
+      "Responsive",
+      "ReactJS",
+      "Axios",
+      "Font Awesome"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/Random-Quote-Generator/master/App%20Screenshots/one.png?token=GHSAT0AAAAAACBKALBUVGTY44FPOACDLVIQZLEXFIQ",
+      "https://raw.githubusercontent.com/MINALOTFY10/Random-Quote-Generator/master/App%20Screenshots/two.png?token=GHSAT0AAAAAACBKALBUQEX5WGFTBK5DW35MZLEXFKA",
+      "https://raw.githubusercontent.com/MINALOTFY10/Random-Quote-Generator/master/App%20Screenshots/three.png?token=GHSAT0AAAAAACBKALBUTDLYNJC62DNGSJTWZLEXFLA"
+    ],
+    "overview": "A simple Random Quote Generator built using React, Display a random quote to the user.",
+    "full-overview": "This app is a simple Random Quote Generator built using React, Display a random quote to the user.",
+    "features": [
+      {
+        "title": "Display a random quote to the user.",
+        "description": []
+      },
+      {
+        "title": "Generate a new random quote with a button click.",
+        "description": []
+      },
+      {
+        "title": "View a list of quotes from a selected quote author.",
+        "description": []
+      },
+      {
+        "title": "View the quote genre under the author.",
+        "description": []
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "La Vie Store 🌿",
+    "date": " Sep 25th 2022",
+    "github": "https://github.com/MINALOTFY10/LaVie-Application-orange-hackathon",
+    "website": "",
+    "Technologies": [
+      "Front-End",
+      "Responsive",
+      "Flutter",
+      "Dart",
+      "Bloc",
+      "APIs",
+      "SQLite"
+    ],
+    "images": [
+      "https://raw.githubusercontent.com/MINALOTFY10/LaVie-Application-orange-hackathon/master/zero.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974595-e1b3f563-7b65-4356-87e3-154737c80fa1.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974533-478aa25b-14c2-44f2-a5cc-847aff8012f8.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974538-312d62d0-651f-4271-bab4-630fddef4dee.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974540-6fdf2582-9348-453d-97b4-2fd8bdc0f0ba.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974551-bec8ad4e-96aa-4c43-bd2f-f820b249d2f3.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974557-8acf36af-58d2-4c52-9c73-8b9c60497cf7.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974558-71cdf099-4671-41ac-af62-c62168e91dfc.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974564-234fcc75-6d9d-441f-97a1-c1cf210b06cf.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974567-b94b102e-e44d-42ec-ad7a-50e164f284e4.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974585-f0b138c7-fc05-47ed-9021-f187748abef0.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974588-2439cb5d-7d89-4d71-8ad3-c796f74ffd65.jpg",
+      "https://user-images.githubusercontent.com/99563220/187974591-bc809bbb-e50d-4432-baff-bea149d0b4af.jpg"
+    ],
+    "overview": "La Vie Store is a mobile application crafted with Flutter, designed to revolutionize your gardening and farming experience.",
+    "full-overview": "La Vie Store is a mobile application crafted with Flutter, designed to revolutionize your gardening and farming experience. This dynamic platform empowers users to effortlessly buy and sell a wide range of plants and agricultural tools, fostering a vibrant community of like-minded individuals.",
+    "features": [
+      {
+        "title": "Marketplace",
+        "description": "Browse and shop for a wide range of plants and agricultural tools."
+      },
+      {
+        "title": "Community",
+        "description": "Share your love for plants by posting images, liking, and commenting on others' posts."
+      },
+      {
+        "title": "User Profiles",
+        "description": "Create and customize your own profile to showcase your gardening journey."
+      },
+      {
+        "title": "Product Reviews",
+        "description": "Read and write reviews to help fellow users make informed choices."
+      },
+      {
+        "title": "Cart Management",
+        "description": "Add and remove items from your cart, and don't worry, your cart information is stored locally, even if you close the app."
+      },
+      {
+        "title": "Secure Backend",
+        "description": "Our app's backend is powered by a secure API to ensure data safety and security."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Todo Flutter App",
+    "date": " Sep 5th 2022",
+    "github": "https://github.com/MINALOTFY10/Todo-Flutter-App",
+    "website": "",
+    "Technologies": [
+      "Front-End",
+      "Responsive",
+      "Flutter",
+      "Dart",
+      "Bloc",
+      "APIs",
+      "SQLite"
+    ],
+    "images": [
+      "https://cdn.dribbble.com/users/430856/screenshots/4848763/media/cf0ee5973f14bed98dbe67421b98042a.png?resize=800x600&vertical=center",
+      "https://user-images.githubusercontent.com/99563220/187945115-a17af499-2450-48f1-8e6b-1f4872066381.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945127-82b0e031-91ac-4688-ab39-c8bda4ec5e3b.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945135-30d09dbe-d5cc-4df7-b3a7-73737dba035e.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945145-4a75a4f4-dd1e-4e19-aa13-9324ec842d3c.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945152-2f6082f9-b55b-401b-a36f-ca62e838eb84.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945161-c0ba3fee-922f-4be2-9f2b-7cc86c549ca5.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945166-bf63a820-6b53-4d77-b06c-9393ea1b9f68.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945174-c064f814-e0c1-48d1-a13f-002ac0a8d327.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945177-a68f80b9-ce46-4a16-b0bb-6cad21675891.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945183-d97b6d32-0476-42b7-bf1a-8b35c0b268c6.jpg",
+      "https://user-images.githubusercontent.com/99563220/187945189-70228cdc-5b82-4cc6-aa09-969899ff28f5.jpg"
+    ],
+    "overview": "A Todo App made with Flutter is a mobile application that enables users to create, manage and organize tasks in an intuitive and user-friendly way.",
+    "full-overview": "A Todo App made with Flutter is a mobile application that enables users to create, manage and organize tasks in an intuitive and user-friendly way. It allows users to easily add, delete and modify tasks, arranging tasks into lists and priorities, set tasks with time and dates. The app is built using the Flutter framework, which provides a powerful and expressive platform for creating stunning mobile applications.",
+    "features": [
+      {
+        "title": "Add New Tasks",
+        "description": "Easily add new tasks to your list."
+      },
+      {
+        "title": "Mark Tasks as Completed",
+        "description": "Track your progress by marking tasks as completed."
+      },
+      {
+        "title": "Remove Tasks",
+        "description": "Remove individual tasks or clear all tasks under the Completed tab."
+      },
+      {
+        "title": "View Options",
+        "description": "View all tasks, active tasks, or completed tasks based on your preference."
+      },
+      {
+        "title": "Local Storage",
+        "description": "Store data locally (using Firebase) to maintain progress even after page refresh."
+      },
+      {
+        "title": "Responsive Layout",
+        "description": "Enjoy a responsive layout that adapts to different devices and screen sizes."
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+.postcard__img {
+  padding: 1rem 1.2rem;
+  min-width: 40%;
+  object-fit: contain;
+  position: relative;
+  margin: 0 auto; /* Set margin to auto */
+  border-radius: 30px;
+  display: block;
+  width: 90%;
+  max-height: 500px;
+}
+
+.postcard__img_link {
+  display: contents;
+}
+
+
+
+@media screen and (min-width: 769px) {
+  .postcard .postcard__img {
+    max-width: 300px;
+    max-height: 100%;
+    transition: transform 0.3s ease;
+  }
+
+  .postcard:hover .postcard__img {
+    transform: scale(1.1);
+  }
+}
